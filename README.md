@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gatirijose
 - 👀 I’m interested in Mobile/web development
 - 🌱 I’m currently learning Software Engineering
-- 📫 How to reach me [mailto:gatirijose@gmail.com]
+- 📫 How to reach me <a href='mailto:gatirijose@gmail.com'>email</a>
 - 😄 Pronouns: He/Him
 
 <!---
