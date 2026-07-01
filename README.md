@@ -51,8 +51,9 @@ Tools & DevOps
 
 ### 🧩 Recent / Featured Work
 
-- bbb_app — Booking & business base app: Flutter frontend, Django REST backend, PostgreSQL, deployed with Docker. (private repo: @gatirijose/bbb_app)
-- luxury_fits — E‑commerce clothing store: Angular frontend, Django backend, Stripe payments, responsive design and admin dashboard. (private repo: @gatirijose/luxury_fits)
+- @gatirijose/luxury_fits — Luxury Fits POS: a cross-platform Point of Sale built with Flutter (Linux, Windows & Android). Key features include a glassmorphic UI, real-time inventory management, sales & expense tracking, M‑Pesa (STK) payment integration, PIN-based app lock, PDF report generation, and local persistence using Hive; Riverpod is used for state management. (private repo: @gatirijose/luxury_fits)
+
+- @gatirijose/bbb_app — Banana Bible Believers Church Android app: a Flutter-based Android application focused on church communications and basic app features. Built targeting Flutter 3.4.x and Android (OpenJDK 21 recommended). Includes build/run instructions for Android (flutter pub get, flutter build apk). (private repo: @gatirijose/bbb_app)
 
 ---
 
