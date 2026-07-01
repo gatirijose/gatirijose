@@ -9,9 +9,9 @@ I specialize in developing scalable **Django backends**, **Flutter mobile apps**
 
 ### 🧠 Tech Stack
 **Languages:** Python, TypeScript, Dart, JavaScript  
-**Frameworks:** Django, Angular, Flutter, Ionic  , PyQt, PySide6
-**Databases:** PostgreSQL, MySQL, Firebase  
-**Tools & DevOps:** Git, Docker, Linux, REST APIs, CI/CD, Nginx  
+**Frameworks:** Django, Angular, Flutter, Ionic, PyQt, PySide6, 
+**Databases:** PostgreSQL, MySQL, Firebase, Turso
+**Tools & DevOps:** Git, Docker, Linux, REST APIs, CI/CD, Nginx, Cloudflare, Capacitor  
 
 ---
 
