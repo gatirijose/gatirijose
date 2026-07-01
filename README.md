@@ -15,7 +15,7 @@ I'm a passionate **Full Stack Developer** focused on building secure, high-perfo
 [![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?logo=freelancer&logoColor=white&style=for-the-badge)](https://www.freelancer.com/get/wawerugatiri) 
 [![Google Developer](https://img.shields.io/badge/Google%20Dev-EA4335?logo=google&logoColor=white&style=for-the-badge)](https://g.dev/josegatiri) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/joseph-gatiri-waweru/) 
-[![Kwork](https://img.shields.io/badge/Kwork-yellow?logo=kwork&logoColor=black&style=for-the-badge)](https://kwork.com/user/josewawaweru)
+[![Kwork](https://img.shields.io/badge/Kwork-yellow?logo=kwork&logoColor=black&style=for-the-badge)](https://kwork.com/user/josewaweru)
 
 ---
 
@@ -51,16 +51,14 @@ Tools & DevOps
 
 ### 🧩 Recent / Featured Work
 
-> Add short project highlights here (project name, tech used, link). Example:
->
-> - MyShop — Django + Angular + PostgreSQL — deployed with Docker & Nginx
-> - RideShare App — Flutter + Firebase — CI/CD, Play Store deployment
+- bbb_app — Booking & business base app: Flutter frontend, Django REST backend, PostgreSQL, deployed with Docker. https://github.com/gatirijose/bbb_app
+- luxury_fits — E‑commerce clothing store: Angular frontend, Django backend, Stripe payments, responsive design and admin dashboard. https://github.com/gatirijose/luxury_fits
 
 ---
 
 ### 📫 Contact
 
-Feel free to reach out via any of the platforms above or email me at: hello@your-domain.com
+Feel free to reach out via any of the platforms above or email me at: wawerujose1@outlook.com
 
 ---
 
