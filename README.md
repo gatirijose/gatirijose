@@ -51,8 +51,8 @@ Tools & DevOps
 
 ### 🧩 Recent / Featured Work
 
-- bbb_app — Booking & business base app: Flutter frontend, Django REST backend, PostgreSQL, deployed with Docker. https://github.com/gatirijose/bbb_app
-- luxury_fits — E‑commerce clothing store: Angular frontend, Django backend, Stripe payments, responsive design and admin dashboard. https://github.com/gatirijose/luxury_fits
+- bbb_app — Booking & business base app: Flutter frontend, Django REST backend, PostgreSQL, deployed with Docker. (private repo: @gatirijose/bbb_app)
+- luxury_fits — E‑commerce clothing store: Angular frontend, Django backend, Stripe payments, responsive design and admin dashboard. (private repo: @gatirijose/luxury_fits)
 
 ---
 
